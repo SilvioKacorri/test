@@ -41,6 +41,8 @@ public class Main {
         }
         System.out.println(wordMap);
 
+        System.out.println(10%3);
+
 
 
     }
